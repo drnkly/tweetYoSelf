@@ -3,7 +3,8 @@ tweetYoSelf
 
 Abstract:
 
-  Twitter is a network of publishers and subscribers of messages that are all stored and distributed centrally by the Twitter company.
+  Twitter is a network of publishers and subscribers publishing and subscribing to messages that are all stored and distributed
+  centrally by the Twitter company.
   
   The messages published and subscribed to in the Twitter network are encoded according to a proprietary protocol defined by the Twitter API
   
