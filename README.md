@@ -13,7 +13,8 @@ Abstract:
   
   Tweet-yo-self is intended to give publishers of messages in the Twitter network ownership of their published messages.
   
-  In its first iteration, Tweet-yo-self will be used to enhance a tweeter t's Twitter node by storing in t's chosen datastore all of t's Twitter messages.
+  In its first iteration, Tweet-yo-self will be used to enhance a tweeter t's Twitter node by subscribing to and storing in t's chosen datastore 
+  all of t's Twitter messages.
   
   Once t's messages are stored by Tweet-yo-self, Tweet-yo-self will provide tools for organizing t's messages.
   
