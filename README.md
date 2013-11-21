@@ -6,7 +6,7 @@ Abstract:
   Twitter is a network of publishers and subscribers publishing and subscribing to messages that are all stored and distributed
   centrally by the Twitter company.
   
-  The messages published and subscribed to in the Twitter network are encoded according to a proprietary protocol defined by the Twitter API
+  The messages published and subscribed to in the Twitter network are encoded according to a proprietary protocol defined by the Twitter API.
   
   The Twitter API not only defines the message structure of the messages in the Twitter network, but also defines the properties and functions
   of Twitter nodes in the Twitter network - where Twitter "nodes" are the publishers and subscribers of Twitter messages in the Twitter network.
